@@ -1,0 +1,49 @@
+nav {
+    float: inherit;
+    max-width: 42px;
+    margin: 0;
+    padding: 4em;
+    font-size: 1em; 
+    color: navy;
+    
+}
+
+article {
+    margin-left: 170px;
+    padding: 1em;
+    border-left: 5px solid purple;
+    overflow: hidden;
+
+}
+margin-left {
+    background-color: green;
+    max-width: 200px;
+    text-align: center;
+    
+    
+    
+}
+header, footer {
+    float: none;
+    padding: 2em;
+    color: purple;
+    background-color: black;
+    text-align: left;
+    clear: left;
+    clear: right;
+}
+body {
+    background-color: orange;
+}
+h1 {
+    color:blue;
+    background-color: gray;
+}
+h2 {
+    color:green;
+    background-color: yellow;
+}
+h3 {
+    color: purple;
+    background-color: pink;
+}
