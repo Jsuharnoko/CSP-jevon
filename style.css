@@ -11,17 +11,13 @@ nav {
 	background-color: gray;
 }
 article {
-    margin-left: 170px;
     padding: 1em;
     border-left: 5px solid purple;
     overflow: hidden;
-
 }
 header {
     width: 100%;
     background-color: purple;
- 
-  
 }
 header::after {
   content: '';
@@ -33,6 +29,9 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
+}
+br{
+    height:20px;
 }
 
 li {
